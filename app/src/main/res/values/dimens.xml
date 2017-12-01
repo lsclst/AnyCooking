@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<dimen name="main_header_height">250dp</dimen>
+	<dimen name="main_tab_bar_height">44dp</dimen>
+	<dimen name="main_search_bar_height">48dp</dimen>
+	<dimen name="layout_margin">16dp</dimen>
+	<dimen name="normal_elevation">8dp</dimen>
+	<dimen name="overLapTop">-24dp</dimen>
+	<dimen name="headerScrollRange">-168dp</dimen>
+	<dimen name="searchBarFinalMargin">5dp</dimen>
+</resources>

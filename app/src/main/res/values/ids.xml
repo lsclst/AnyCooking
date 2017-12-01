@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<item name="id_top_container" type="id"/>
+	<item name="id_tool_bar" type="id"/>
+	<item name="id_tab_bar" type="id"/>
+	<item name="id_search_view" type="id"/>
+</resources>
